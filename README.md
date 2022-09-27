@@ -1,0 +1,1 @@
+# magick_square_generator
