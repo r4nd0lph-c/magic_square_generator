@@ -1,4 +1,4 @@
-# Magick Square generator
+# Magick Square generator ✨
 ### Theory
 A <b>Magic square</b> is a square array <i>n×n</i> filled with <i>n²</i> different numbers in such a way that the sum of the numbers in each row, each column and on both diagonals is the same.
 
