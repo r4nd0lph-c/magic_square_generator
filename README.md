@@ -36,7 +36,7 @@ This class is an implementation of a normal magic square.
 
 ------------
 ### Results
-![result image](results_img.png)
+![result image](result.png)
 ------------
 
 ### References to the sources used
